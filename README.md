@@ -1,6 +1,7 @@
 # luaprof
 
 luaprof [seconds] <function> [function ...]
+
 luaprof_stop
 
 use luaprof on client and luaprof_sv on server (superadmin only)
